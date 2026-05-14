@@ -24,7 +24,7 @@
 
 > *"I build systems that solve real problems — from AI that saves lives at crowded events to platforms that get students their dream jobs."*
 
-I'm a **2nd-year IT undergrad** at Vishnu Institute of Technology (CGPA: 8.2) with a deep passion for building things that matter. I live at the intersection of **full-stack engineering** and **AI/ML**, and I love turning complex ideas into clean, scalable software.
+I'm a **4th-year IT undergrad** at Vishnu Institute of Technology (CGPA: 8.2) with a deep passion for building things that matter. I live at the intersection of **full-stack engineering** and **AI/ML**, and I love turning complex ideas into clean, scalable software.
 
 - 🔭 Currently working on **AI-powered crowd surveillance** with the college TBI
 - 🤝 Mentoring **100+ students** as a GDG Technical Mentor
