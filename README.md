@@ -11,7 +11,7 @@
 
 ### Full-Stack Developer · AI/ML Engineer · Open Source Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giddavaibhav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-vaibhav-baba43342/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giddavaibhav)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvaibhav89197@gmail.com)
 [![Phone](https://img.shields.io/badge/+91_9346562130-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919346562130)
@@ -24,7 +24,7 @@
 
 > *"I build systems that solve real problems — from AI that saves lives at crowded events to platforms that get students their dream jobs."*
 
-I'm a **4th-year IT undergrad** at Vishnu Institute of Technology (CGPA: 8.2) with a deep passion for building things that matter. I live at the intersection of **full-stack engineering** and **AI/ML**, and I love turning complex ideas into clean, scalable software.
+I'm a **2nd-year IT undergrad** at Vishnu Institute of Technology (CGPA: 8.2) with a deep passion for building things that matter. I live at the intersection of **full-stack engineering** and **AI/ML**, and I love turning complex ideas into clean, scalable software.
 
 - 🔭 Currently working on **AI-powered crowd surveillance** with the college TBI
 - 🤝 Mentoring **100+ students** as a GDG Technical Mentor
@@ -165,7 +165,7 @@ I'm actively looking for **software engineering and ML internship** opportunitie
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giddavaibhav)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-vaibhav-baba43342/)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gvaibhav89197@gmail.com)
 
 ---
