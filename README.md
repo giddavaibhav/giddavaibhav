@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝ 
 ```
 
-### Full-Stack Developer · Salesforce · Data Analyst . Open Source Enthusiast
+### Full-Stack Developer · Salesforce · Data Analyst · Open Source Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-vaibhav-baba43342/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giddavaibhav)
